@@ -1,16 +1,25 @@
-### Hi there 👋
+```js
+const bestDiscordBot = require("xentri")
+bestDiscordBot.once("ready" => {
+await life.start({timeout: -0})
+// ;)
+})
+```
+***My Public Bots:**
 
-<!--
-**CodeDanielR/CodeDanielR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Invite Xentri - [Click Here](https://dsc.gg/xentri)
+- Xentri Support - [Click Here](https://dsc.gg/xentrisupport)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Im currently working on a some guys private bots!
+- My NPM package: [xyae](https://www.npmjs.com/package/xyae)
+
+---
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
