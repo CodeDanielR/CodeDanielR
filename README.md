@@ -5,7 +5,7 @@ await life.start({timeout: -0})
 // ;)
 })
 ```
-***My Public Bots:**
+***My Public Bots:***
 
 - Invite Xentri - [Click Here](https://dsc.gg/xentri)
 - Xentri Support - [Click Here](https://dsc.gg/xentrisupport)
