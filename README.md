@@ -5,9 +5,10 @@ await life.start({timeout: -0})
 // ;)
 })
 ```
-***My Public Bots:***
+**My Public Bots:**
 
-- Invite Xentri - [Click Here](https://discord.com/api/oauth2/authorize?client_id=833053303931666463&permissions=8&scope=bot)
+*Usim Bot:*
+- Invite Usim Bot - [Click Here](https://discord.com/api/oauth2/authorize?client_id=833053303931666463&permissions=8&scope=bot)
 - Xentri Support - [Click Here](https://discord.gg/rCgn3b4sSv)
 
 ---
