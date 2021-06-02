@@ -1,5 +1,5 @@
 ```js
-const bestDiscordBot = require("xentri")
+const bestDiscordBot = require("usimbot")
 bestDiscordBot.once("ready" => {
 await life.start({timeout: -0})
 // ;)
@@ -7,8 +7,8 @@ await life.start({timeout: -0})
 ```
 ***My Public Bots:***
 
-- Invite Xentri - [Click Here](https://dsc.gg/xentri)
-- Xentri Support - [Click Here](https://dsc.gg/xentrisupport)
+- Invite Xentri - [Click Here](https://discord.com/api/oauth2/authorize?client_id=833053303931666463&permissions=8&scope=bot)
+- Xentri Support - [Click Here](https://discord.gg/rCgn3b4sSv)
 
 ---
 
