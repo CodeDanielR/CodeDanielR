@@ -9,7 +9,7 @@ await life.start({timeout: -0})
 
 *Usim Bot:*
 - Invite Usim Bot - [Click Here](https://discord.com/api/oauth2/authorize?client_id=833053303931666463&permissions=8&scope=bot)
-- Xentri Support - [Click Here](https://discord.gg/rCgn3b4sSv)
+- Usim Bot Support - [Click Here](https://discord.gg/rCgn3b4sSv)
 
 ---
 
