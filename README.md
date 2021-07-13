@@ -13,8 +13,8 @@ await life.start({timeout: -0})
 
 ---
 
-- Im currently working on a some guys private bots!
-- My NPM package: [xyae](https://www.npmjs.com/package/xyae)
+- Currently developing custom discord bots for users, and learning development languages!
+- My API - [Click Here](https://api.codedanielr.repl.co/)
 
 ---
 
