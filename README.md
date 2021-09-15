@@ -1,4 +1,5 @@
 ```js
+HELLO OFEK
 const bestDiscordBot = require("usimbot")
 bestDiscordBot.once("ready" => {
 await life.start({timeout: -0})
