@@ -1,27 +1,36 @@
-```js
-HELLO OFEK
-const bestDiscordBot = require("usimbot")
-bestDiscordBot.once("ready" => {
-await life.start({timeout: -0})
-// ;)
-})
-```
+Hello, My name is *Daniel*, 
+13 y/o.
+
 **My Public Bots:**
 
-*Usim Bot:*
-- Invite Usim Bot - [Click Here](https://discord.com/api/oauth2/authorize?client_id=833053303931666463&permissions=8&scope=bot)
-- Usim Bot Support - [Click Here](https://discord.gg/rCgn3b4sSv)
+*RangeBlocker*
+* Invite: [Click](https://rangeblocker.xyz/invite)
+* Support: [Click](https://rangeblocker.xy/discord)
 
----
+*RangeList*
+* Invite: [Click](https://s.zeori.xyz/invite)
+* Support: [Click](https://discord.gg/violentrange) 
 
-- Currently developing custom discord bots for users, and learning development languages!
+*RangeMusic*
+* Invite: [Click](https://discord.com/api/oauth2/authorize?client_id=888128837228048414&permissions=1878388185&scope=bot%20applications.commands)
+* Support: [Click](https://discord.gg/rangeblocker)
+
+~~-----
+
+- Currently working on my public discord bots
 - My API - [Click Here](https://api.codedanielr.repl.co/)
 
----
+~~-----
 
-### Languages and Tools:
+**Languages and Tools:**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
+
+~~----
+
+**My Skills**
+
+NodeJS, JS, TS, Express, EJS, HTML & CSS.
