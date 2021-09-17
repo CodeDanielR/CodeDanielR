@@ -15,12 +15,12 @@ Hello, My name is *Daniel*,
 * Invite: [Click](https://discord.com/api/oauth2/authorize?client_id=888128837228048414&permissions=1878388185&scope=bot%20applications.commands)
 * Support: [Click](https://discord.gg/rangeblocker)
 
-~~-----~~
+~~---------~~
 
 - Currently working on my public discord bots
 - My API - [Click Here](https://api.codedanielr.repl.co/)
 
-~~-----~~
+~~---------~~
 
 **Languages and Tools**
 
@@ -31,7 +31,7 @@ Hello, My name is *Daniel*,
 <br>
 </br>
 
-~~----~~
+~~---------~~
 
 **My Skills**
 
