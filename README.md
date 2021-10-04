@@ -19,7 +19,7 @@ Hello, My name is *Daniel*,
 
 - Currently working on my public discord bots
 - My API - [Click Here](https://api.codedanielr.repl.co/)
-- 
+
 ![](https://github-readme-stats.vercel.app/api?username=skyalumny&show_icons=true&include_all_commits=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skyalumny&layout=default&theme=dark)
 
