@@ -25,11 +25,15 @@ Hello, My name is *Daniel*,
 
 <hr>
 
-
-
 **Languages and Tools**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
+
+<hr>
+
+**Other:**
+
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/737232727459495977)](https://dev.discordprofiles.me/openspotify/737232727459495977)
