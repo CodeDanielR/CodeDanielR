@@ -37,5 +37,6 @@ Hey, My name is *Daniel*,
 **Other:**
 
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/737232727459495977)](https://dev.discordprofiles.me/openspotify/737232727459495977)
+<br>
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/737232727459495977?simple=true) (.DanielSo#9999)
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/737232727459495977?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/737232727459495977)
