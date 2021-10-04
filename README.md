@@ -15,12 +15,17 @@ Hello, My name is *Daniel*,
 * Invite: [Click](https://discord.com/api/oauth2/authorize?client_id=888128837228048414&permissions=1878388185&scope=bot%20applications.commands)
 * Support: [Click](https://discord.gg/rangeblocker)
 
-~~---------~~
+<hr>
 
 - Currently working on my public discord bots
 - My API - [Click Here](https://api.codedanielr.repl.co/)
+- 
+![](https://github-readme-stats.vercel.app/api?username=skyalumny&show_icons=true&include_all_commits=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skyalumny&layout=default&theme=dark)
 
-~~---------~~
+<hr>
+
+
 
 **Languages and Tools**
 
@@ -28,11 +33,3 @@ Hello, My name is *Daniel*,
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<br>
-</br>
-
-~~---------~~
-
-**My Skills**
-
-NodeJS, JS, TS, Express, EJS, HTML & CSS.
