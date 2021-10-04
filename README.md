@@ -1,5 +1,5 @@
-Hello, My name is *Daniel*, 
-13 y/o.
+Hey, My name is *Daniel*, 
+14 y/o.
 
 **My Public Bots**
 
@@ -31,7 +31,7 @@ Hello, My name is *Daniel*,
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
-
+<br>
 <hr>
 
 **Other:**
