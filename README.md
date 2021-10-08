@@ -22,7 +22,7 @@ Hey, My name is *Daniel*,
 
 ![](https://github-readme-stats.vercel.app/api?username=codedanielr&show_icons=true&include_all_commits=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codedanielr&layout=default&theme=dark)
-
+![](https://wakatime.com/share/@CodeDanielR/5b07c5b0-68cc-48f7-938f-cbe158faf1d2.png)
 <hr>
 
 **Languages and Tools**
