@@ -1,5 +1,5 @@
-Hey, My name is *Daniel*, 
-14 y/o.
+Hey, My name is *Daniel*, 14 y/o.
+<br>
 Started with development almost 2 years ago.
 
 <hr>
