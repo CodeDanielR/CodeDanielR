@@ -1,19 +1,6 @@
 Hey, My name is *Daniel*, 
 14 y/o.
-
-**My Public Bots**
-
-*RangeBlocker*
-* Invite: [Click](https://rangeblocker.xyz/invite)
-* Support: [Click](https://rangeblocker.xy/discord)
-
-*RangeList*
-* Invite: [Click](https://s.zeori.xyz/invite)
-* Support: [Click](https://discord.gg/violentrange) 
-
-*RangeMusic*
-* Invite: [Click](https://discord.com/api/oauth2/authorize?client_id=888128837228048414&permissions=1878388185&scope=bot%20applications.commands)
-* Support: [Click](https://discord.gg/rangeblocker)
+Started with development almost 2 years ago.
 
 <hr>
 
