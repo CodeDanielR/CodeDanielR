@@ -1,33 +1,11 @@
 Hey, My name is *Daniel*, 14 y/o.
 <br>
-Started with development almost 2 years ago.
-
+Developer since **2020**.
+<img class="logo-img" src="https://avatars.githubusercontent.com/u/75735370?s=40&u=1699c2e51d88953eb24d0f09ec38f1d82b5fb209&v=4">
 <hr>
-
-- Currently working on my public discord bots
-- My API - [Click Here](https://api.codedanielr.repl.co/)
-
-![](https://github-readme-stats.vercel.app/api?username=codedanielr&show_icons=true&include_all_commits=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codedanielr&layout=default&theme=dark)
-![](https://wakatime.com/share/@CodeDanielR/5b07c5b0-68cc-48f7-938f-cbe158faf1d2.png)
-![](https://wakatime.com/share/@CodeDanielR/553b440b-02ac-4e34-b2b2-0854c8a3da8f.png)
-<hr>
-
-**Languages and Tools**
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<br>
-<hr>
-
-**Other:**
-
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/737232727459495977)](https://dev.discordprofiles.me/openspotify/737232727459495977)
-<br>
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/737232727459495977?simple=true) (.DanielSo#9999)
-<br>
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/737232727459495977)
-<br>
-![visits](https://visitor-badge.glitch.me/badge?page_id=CodeDanielR.CodeDanielR)
+<style>
+	.logo-img {
+		border: 1px solid #fff;
+		border-radius: 70px;
+	}
+</style>
