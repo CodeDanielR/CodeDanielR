@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my profile 👋!</h1>
 <p align="center">My name is <em>Daniel</em>,</p>
 <p align="center">Developer since <em>2020</em>.</p>
+<p align="center">Making videos in <a title="My YouTube Channel" href="https://www.youtube.com/channel/UCs1xlCqUg_3AVdZ1QDhJkag"><img title="YouTube" style="max-width:100%;" height="20" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png"></a>
 <h2 align="center">💻 My Development Information:</h2>
 <table align="center">
 	<tr>
