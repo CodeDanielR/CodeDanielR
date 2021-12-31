@@ -34,7 +34,7 @@
 		</td>
 	</tr>
 </table>
-<p align="center">Contact me on: <a target="_blank" title="Discord" href="https://discord.com/users/737232727459495977">Discord</a> | <a target="_blank" title="Email" href="mailto:daniel@rangeblocker.xyz">Email</a></p>
+<p align="center">Contact me via <a target="_blank" title="Discord" href="https://discord.com/users/737232727459495977">Discord</a> or <a target="_blank" title="Email" href="mailto:daniel@rangeblocker.xyz">Email</a></p>
 <h2 align="center">📈 My Development Stats:</h2>
 <div align="center" style="overflow: hidden; display: flex; justify-content:space-around;">
 <img height="230"width="300" src="https://wakatime.com/share/@CodeDanielR/e79753ed-ca79-4b02-b903-c66d48be918c.png"> 
