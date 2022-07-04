@@ -20,8 +20,8 @@
 			<a href="https://python.org"><img title="Python" style="max-width:100%;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
 			<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img title="JavaScript" style="max-width:100%;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 			<a href="https://typescriptlang.org"><img title="TypeScript" style="max-width:100%;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
-			<a href="https://w3schools.com/html/"><img title="HTML" style="max-width:100%;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
-			<a href="https://w3schools.com/css"><img title="CSS" style="max-width:100%;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
+			<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img title="HTML" style="max-width:100%;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
+			<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img title="CSS" style="max-width:100%;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
 		</td>
 		<td>
 			<a href="https://nodejs.org"><img title="NodeJS" style="max-width:100%;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
