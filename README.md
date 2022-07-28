@@ -2,6 +2,7 @@
 <p align="center">My name is <em>Daniel</em>,</p>
 <p align="center">Developer since <em>2020</em>.</p>
 <p align="center">Making videos in <a title="My YouTube Channel" href="https://www.youtube.com/channel/UCs1xlCqUg_3AVdZ1QDhJkag"><img title="YouTube" style="max-width:100%;" height="20" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png"></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/388320576407863297?hideStatus=false)](https://discord.com/users/388320576407863297)
 <h2 align="center">💻 My Development Information:</h2>
 <table align="center">
 	<tr>
@@ -43,4 +44,3 @@
 </div>
 <h2 align="center">📕 My Development Projects:</h2>
 <p align="center">1. RangeBlocker (<strong>Founder & Main Developer</strong>) | <a title="RangeBlocker Website" href="https://rangeblocker.xyz">Website</a> - <a title="RangeBlocker Invite" href="https://rangeblocker.xyz/invite">Invite</a> - <a title="RangeBlocker Support" href="https://discord.gg/SzHcsFsUtn">Support</a></p>
-<p align="center">2. Vogo (<strong>Founder & Developer </strong>) | <a title="Vogo Invite" href="https://discord.com/api/oauth2/authorize?client_id=858001037621067826&permissions=288440401&scope=bot%20applications.commands">Invite</a> - <a title="Vogo Support" href="https://discord.gg/gCsUWJjjmQ">Support</a></p>
