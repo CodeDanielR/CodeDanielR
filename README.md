@@ -2,8 +2,9 @@
 <p align="center">My name is <em>Daniel</em>,</p>
 <p align="center">Developer since <em>2020</em>.</p>
 
-<img src="https://lanyard.cnrad.dev/api/737232727459495977" />
-
+<p align="center">
+	<img src="https://lanyard.cnrad.dev/api/737232727459495977" />
+</p>
 <h2 align="center">💻 My Development Information:</h2>
 <table align="center">
 	<tr>
