@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my profile 👋!</h1>
 <p align="center">My name is <em>Daniel</em>,</p>
-<p align="center">Developer since <em>2020</em>.</p>
-<p align="center">Making videos in <a title="My YouTube Channel" href="https://www.youtube.com/channel/UCs1xlCqUg_3AVdZ1QDhJkag"><img title="YouTube" style="max-width:100%;" height="20" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png"></a>
+<p align="center">I started developing at the end of <em>2020</em>.</p>
 <h2 align="center">💻 My Development Information:</h2>
 <table align="center">
 	<tr>
@@ -34,7 +33,7 @@
 		</td>
 	</tr>
 </table>
-<p align="center">Feel free to contact me via <a target="_blank" title="Discord" href="https://discord.com/users/737232727459495977">Discord</a> or <a target="_blank" title="Email" href="mailto:daniel@rangeblocker.xyz">Email</a></p>
+<p align="center">Feel free to contact me via <a target="_blank" title="Discord" href="https://discord.com/users/1160579148788543619">Discord</a> or <a target="_blank" title="Email" href="mailto:daniel@rangeblocker.xyz">Email</a></p>
 <h2 align="center">📈 My Development Stats:</h2>
 <div align="center" style="overflow: hidden; display: flex; justify-content:space-around;">
 <img height="230"width="300" src="https://wakatime.com/share/@CodeDanielR/e79753ed-ca79-4b02-b903-c66d48be918c.png"> 
@@ -43,4 +42,4 @@
 </div>
 <h2 align="center">📕 My Development Projects:</h2>
 <p align="center">1. RangeBlocker (<strong>Founder & Main Developer</strong>) | <a title="RangeBlocker Website" href="https://rangeblocker.xyz">Website</a> - <a title="RangeBlocker Invite" href="https://rangeblocker.xyz/invite">Invite</a> - <a title="RangeBlocker Support" href="https://discord.gg/SzHcsFsUtn">Support</a></p>
-<p align="center">2. Vogo (<strong>Founder & Developer </strong>) | <a title="Vogo Invite" href="https://discord.com/api/oauth2/authorize?client_id=858001037621067826&permissions=288440401&scope=bot%20applications.commands">Invite</a> - <a title="Vogo Support" href="https://discord.gg/gCsUWJjjmQ">Support</a></p>
+<p align="center">2. Vogo (<strong>RedAlerts - </strong>) | <a title="RedAlerts Invite" href="https://discord.com/api/oauth2/authorize?client_id=858001037621067826&permissions=288440401&scope=bot%20applications.commands">Invite</a> - <a title="Vogo Support" href="https://discord.gg/gCsUWJjjmQ">Support</a></p>
