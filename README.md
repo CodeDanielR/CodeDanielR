@@ -42,4 +42,4 @@
 </div>
 <h2 align="center">📕 My Development Projects:</h2>
 <p align="center">1. RangeBlocker (<strong>Founder & Main Developer</strong>) | <a title="RangeBlocker Website" href="https://rangeblocker.xyz">Website</a> - <a title="RangeBlocker Invite" href="https://rangeblocker.xyz/invite">Invite</a> - <a title="RangeBlocker Support" href="https://discord.gg/SzHcsFsUtn">Support</a></p>
-<p align="center">2. Vogo (<strong>RedAlerts - </strong>) | <a title="RedAlerts Invite" href="https://discord.com/api/oauth2/authorize?client_id=858001037621067826&permissions=288440401&scope=bot%20applications.commands">Invite</a> - <a title="Vogo Support" href="https://discord.gg/gCsUWJjjmQ">Support</a></p>
+<p align="center">2. RedAlerts (<strong>RedAlerts - </strong>) | <a title="RedAlerts Invite" href="https://red-alerts.xyz/invite">Invite</a> - <a title="RedAlertst Support" href="https://red-alerts.xyz/discord">Support</a></p>
